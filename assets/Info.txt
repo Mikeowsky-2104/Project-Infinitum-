@@ -1,0 +1,1 @@
+This Folder is a folder for images and is neccesary for the functionality of the project
